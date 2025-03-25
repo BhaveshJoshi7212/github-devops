@@ -1,0 +1,26 @@
+git add testing.py
+git rm --catch testing.py 
+git commit -m "added testing files"
+git restore testing.py 
+ 
+
+ git basic command 
+ git init
+ git status
+ git add 
+ git commit -m " "
+ git restore testing.py
+
+ history 
+
+ get remote add origine https link
+ git remote -v
+ git status
+
+ get set-url origine https link
+ clear
+ git remote -v
+ git push origine master
+ clear
+ 
+ 
